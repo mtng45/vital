@@ -11,7 +11,6 @@ Docker ベースの 高速 WordPress 開発環境
 
 ##Vagrant
 開発環境の構築と共有を簡単に行うためのツール  
-どこでも同じ環境を再現できるように仮想マシン環境を管理する機能と、Atlasを通して共有する仕組みが提供されている。  
 [https://www.vagrantup.com/](https://www.vagrantup.com/)  
 
 ##VirtualBox
