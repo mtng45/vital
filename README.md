@@ -26,6 +26,10 @@ wocker start wocker
 仮想マシン  
 [https://www.virtualbox.org/](https://www.virtualbox.org/)  
 
+##Git
+ソース管理  
+[https://git-scm.com/](https://git-scm.com/) 
+
 ##Wordpress
 CMS  
 ※Original Themeを作成  
@@ -50,4 +54,8 @@ Javascriptの依存関係を解決ツール
 ##Materialize
 フレームワーク  
 [http://materializecss.com/](http://materializecss.com/)  
+
+
+
+
 
