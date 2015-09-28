@@ -7,13 +7,22 @@
 
 ##Wocker
 Docker ベースの 高速 WordPress 開発環境  
+・VagrantとVirtualBoxとvagrant-hostsupdater pluginをインストールする  
+↓詳細↓
 [http://wckr.github.io/](http://wckr.github.io/)  
 
-##Vagrant
+ターミナルにてVagrantfileがあるディレクトリに移動して下記コマンドを実行
+vagrant up
+
+vagrant ssh
+
+wocker start wocker
+
+###Vagrant
 開発環境の構築と共有を簡単に行うためのツール  
 [https://www.vagrantup.com/](https://www.vagrantup.com/)  
 
-##VirtualBox
+###VirtualBox
 仮想マシン  
 [https://www.virtualbox.org/](https://www.virtualbox.org/)  
 
