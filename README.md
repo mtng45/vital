@@ -37,23 +37,23 @@ CMS
 [https://ja.wordpress.org/](https://ja.wordpress.org/)  
 
 ####Plugins
-*Smart Custom Fields   
+**Smart Custom Fields**   
 バージョン 1.5.2   
 CMSカスタムプラグイン  
 
-*All in One SEO Pack   
+**All in One SEO Pack**   
 バージョン: 2.2.7.2  
 SEOプラグイン  
 
-*WP Super Cache  
+**WP Super Cache**  
 バージョン 1.4.5   
 ページをキャッシュするプラグイン  
 
-*DB Cache Reloaded Fix  
+**DB Cache Reloaded Fix**  
 バージョン 2.3  
 ページを生成するためのデータベースへの呼び出し処理をキャッシュ化し、表示速度を高速化するプラグイン  
 
-*Google XML Sitemaps  
+**Google XML Sitemaps**  
 バージョン 4.0.8   
 記事が更新される際に、自動でサイトマップがつくられるプラグイン  
 
