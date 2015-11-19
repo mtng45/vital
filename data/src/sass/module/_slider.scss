@@ -1,0 +1,24 @@
+.m-slider {
+    margin: 0;
+
+    li {
+        height: 420px;
+        background: $blackCol;
+
+        img,
+        iframe {
+            display: block;
+            margin: 0 auto;
+        }
+
+        img {
+            width: auto;
+            height: 420px;
+        }
+        iframe {
+            max-width: 1024px;
+            width: 100%;
+            height: 100%;
+        }
+    }
+}

@@ -11,6 +11,17 @@
 // Reset
 @import "components/normalize";
 
+///Basic
+@import "basic/define";
+@import "basic/mixin";
+@import "basic/util";
+@import "basic/icons";
+
+//Layout
+@import "layout/header";
+@import "layout/section";
+@import "layout/row";
+
 // components
 @import "components/global";
 @import "components/icons-material-design";
@@ -37,3 +48,11 @@
 @import "components/date_picker/default.scss";
 @import "components/date_picker/default.date.scss";
 @import "components/date_picker/default.time.scss";
+
+///module
+@import "module/card";
+@import "module/heading";
+@import "module/list";
+@import "module/nav";
+@import "module/slider";
+

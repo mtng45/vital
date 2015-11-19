@@ -1,0 +1,27 @@
+.m-navbar {
+    height: 45px;
+    
+    ul {
+        max-width: 1024px;
+        margin: 0 auto;
+        @extend .u-clearfix;
+
+        li {
+            width: 16.66666%;
+            text-align: center;
+        }
+    }
+
+    a {
+        font-weight: bold;
+        line-height: 30px;
+        margin: 0 35px;
+
+        &:hover {
+            border-bottom:5px solid $mainCol;
+            transition-duration:0.3s;
+            transition-timing-function:ease;
+        }
+    }
+}
+

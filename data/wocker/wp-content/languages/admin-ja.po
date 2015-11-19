@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-09-16 02:14:54+0000\n"
+"PO-Revision-Date: 2015-09-30 16:23:05+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -865,7 +865,7 @@ msgstr "「他のすべての場所でログアウト」ボタンをクリック
 
 #: wp-admin/includes/update.php:331
 msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\" class=\"update-link\">update now</a>."
-msgstr "新しいバージョンの %1$s が利用可能です。<a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">バージョン %4$s の詳細を見る</a>か、<a href=\"%5$s\" class=\"update-link\">今すぐ更新</a>ししてください。"
+msgstr "新しいバージョンの %1$s が利用可能です。<a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">バージョン %4$s の詳細を見る</a>か、<a href=\"%5$s\" class=\"update-link\">今すぐ更新</a>してください。"
 
 #: wp-admin/includes/class-wp-press-this.php:880
 msgid "Toggle add category"

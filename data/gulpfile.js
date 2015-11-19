@@ -32,12 +32,10 @@ gulp.task("ejs", function () {
             // 最新のJSONファイルを同期読み込みしてオブジェクトを生成
             //var json = JSON.parse(fs.readFileSync("src/data/pages.json"));
 
-            gulp.src([SRC + "/ejs/**/**/*.ejs",'!'+ SRC + "/ejs/**/_*.ejs"])
+            gulp.src([SRC + "/ejs/**/*.ejs",'!'+ SRC + "/ejs/**/_*.ejs"])
                 .pipe(plumber())
                 // オブジェクトを渡してデータの当て込み
-                //.pipe(ejs(json))
-                .pipe(htmlhint())
-                .pipe(htmlhint.reporter())
+                .pipe(ejs())
                 .pipe(rename({extname: '.php'}))
                 .pipe(gulp.dest(PUBLIC))
                 .pipe(reload({stream: true}));
@@ -69,15 +67,6 @@ gulp.task('mincss', function(){
         }))
     .pipe(rename({suffix: '.min'}))
     .pipe(gulp.dest(PUBLIC + '/css/'))
-    .pipe(reload({stream: true}));
-});
-
-
-//スタイルガイド生成
-gulp.task('hologram', function() {
-  var configGlob = 'hologram/hologram_config.yml';
-  gulp.src(configGlob)
-    .pipe(hologram())
     .pipe(reload({stream: true}));
 });
 
@@ -141,7 +130,7 @@ gulp.task("server", function() {
 gulp.task('default',['server'],function() {
     gulp.watch([SRC + '/js/plugins/**/*.js','!'+ SRC + '/js/plugins/back/**/*.js'],['jsplg']);
     gulp.watch([SRC + "/js/**/*.js",'!'+ SRC + "/js/plugins/*.js"],['webpack']);
-    gulp.watch(SRC + '/sass/**/*.scss',['sass','hologram']);
+    gulp.watch(SRC + '/sass/**/*.scss',['sass']);
     gulp.watch(PUBLIC + '/css/common.css',['mincss']);
     gulp.watch(SRC + '/sass/base/sprite/images/*.png',['sprite']);
     gulp.watch([SRC + "/ejs/**/**/*.ejs",SRC + "/data/**.json"],['ejs']);
