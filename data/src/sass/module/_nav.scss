@@ -1,7 +1,7 @@
-.m-navbar {
-    height: 45px;
+ 
     
-    ul {
+    .m-navbar {
+        height: 45px;
         max-width: 1024px;
         margin: 0 auto;
         @extend .u-clearfix;
@@ -10,18 +10,29 @@
             width: 16.66666%;
             text-align: center;
         }
-    }
 
-    a {
-        font-weight: bold;
-        line-height: 30px;
-        margin: 0 35px;
+        a {
+            font-weight: bold;
+            line-height: 30px;
+            margin: 0 35px;
 
-        &:hover {
-            border-bottom:5px solid $mainCol;
-            transition-duration:0.3s;
-            transition-timing-function:ease;
+            &:hover {
+                border-bottom:5px solid $mainCol;
+                transition-duration:0.3s;
+                transition-timing-function:ease;
+            }
         }
     }
-}
 
+//Mobile
+@media (max-width: $responsiveWidth) {
+    header {
+        position: relative;
+    }
+
+    nav {
+        position: absolute;
+        top: 20%;
+        left: 15px;
+    }
+}
