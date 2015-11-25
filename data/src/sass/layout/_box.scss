@@ -1,0 +1,16 @@
+.l-box {
+    position: relative;
+    min-height: 310px;
+
+    &-bottom {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+
+        ul {
+            margin: 0;
+        }
+    }
+}

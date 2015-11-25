@@ -1,0 +1,17 @@
+.m-keyvisual {
+    background: $blackCol;
+
+    &-body {
+        width: 1024px;
+        height: 420px;
+        margin: 0 auto;
+        text-align: center;
+        overflow: hidden;
+
+        img {
+            width: auto;
+            height: 100%;
+        }
+
+    }
+}

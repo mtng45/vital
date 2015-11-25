@@ -92,6 +92,12 @@
 .u-text-red {
     color: #ff0000 !important;
 }
+//border
+.u-border-link {
+    border-bottom:5px solid $mainCol;
+    transition-duration:0.3s;
+    transition-timing-function:ease;
+}
 //block
 .u-center-block {
     display: block !important;

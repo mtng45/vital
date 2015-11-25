@@ -2,9 +2,53 @@
     <!-- Header -->
     <% include ./temp/_header %>
     <div class="u-bg-top">
+    <!-- image -->
+    <div class="m-keyvisual">
+        <div class="m-keyvisual-body">
+        <img src="<?php bloginfo( 'template_directory' ); ?>/img/keyvisual01.jpg" alt="アーティスト画像">
+        </div>
+    </div>
+    <section class="l-section-maxWidth u-mb60">
+        <h1 class="m-heading-main u-text-center">RHYDA</h1>
+        <div class="row">
+            <div class="col m4">
+                <div class="m-thumbnail">
+                    <div class="m-thumbnail-body">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/img/keyvisual01.jpg" alt="アーティストアー写">
+                    </div>
+                </div>
+            </div>
+            <div class="col m4 l-box">
+                <p class="u-text-middle">
+                都内を中心に深夜の地下街を賑わせている サウンドフリーク集団「VITAL」。そのVITAL の唯一MCであり数多くのMCでも異彩を放 つ強烈なライブパフォーマンスでプロップスを 拡大し続けているMCのRHYDAが、待望の ファーストアルバムをドロップ!!
+                </p>
+                <div class="l-box-bottom">
+                    <!-- SNS -->
+                    <% include ./temp/_listSns %>
+                </div>
+            </div>
+            <div class="col m4">
+                <div class="m-thumbnail">
+                    <div class="m-thumbnail-content">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/img/keyvisual01.jpg" alt="アーティストアー写">
+                    </div>
+                    <div class="m-thumbnail-content">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/img/thumnail01.jpg" alt="アーティストアー写">
+                    </div>
+                    <div class="m-thumbnail-content">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/img/thumnail01.jpg" alt="アーティストアー写">
+                    </div>
+                    <div class="m-thumbnail-content">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/img/thumnail01.jpg" alt="アーティストアー写">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     
     <section class="container">
-        <h1 class="m-heading-sub u-pt60">NEW TOPICS</h1>
+        <h1 class="m-heading-sub">NEW TOPICS</h1>
         <div class="l-row row u-mt30">
             <div class="col m4 s6">
                 <section class="card m-card">
@@ -67,7 +111,7 @@
                 </section>
             </div>
         </div> 
-        <hr class="u-hr-black u-mt60">
+        <hr class="u-hr-black">
         <!-- SNS -->
         <% include ./temp/_listSns %>
     </section>
