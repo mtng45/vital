@@ -1,6 +1,7 @@
 .l-box {
     position: relative;
     min-height: 310px;
+    word-wrap: break-word;
 
     &-bottom {
         position: absolute;

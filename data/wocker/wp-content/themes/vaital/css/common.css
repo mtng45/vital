@@ -3865,8 +3865,9 @@ body {
 .l-box {
   position: relative;
   min-height: 310px;
+  word-wrap: break-word;
 }
-/* line 5, ../../../../../src/sass/layout/_box.scss */
+/* line 6, ../../../../../src/sass/layout/_box.scss */
 .l-box-bottom {
   position: absolute;
   bottom: 0;
@@ -3874,7 +3875,7 @@ body {
   right: 0;
   margin: auto;
 }
-/* line 12, ../../../../../src/sass/layout/_box.scss */
+/* line 13, ../../../../../src/sass/layout/_box.scss */
 .l-box-bottom ul {
   margin: 0;
 }

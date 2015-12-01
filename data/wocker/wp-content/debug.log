@@ -151,3 +151,51 @@
 [30-Nov-2015 16:46:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 130
 [30-Nov-2015 16:46:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 130
 [30-Nov-2015 16:46:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 130
+[30-Nov-2015 18:08:40 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:08:40 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:08:49 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:08:54 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:09:21 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:09:21 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:09:25 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:09:47 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:12:02 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[30-Nov-2015 18:20:33 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 51
+[30-Nov-2015 18:21:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 44
+[01-Dec-2015 15:29:23 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[01-Dec-2015 15:29:23 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[01-Dec-2015 15:29:29 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[01-Dec-2015 15:29:31 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[01-Dec-2015 15:29:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 131
+[01-Dec-2015 15:30:11 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[01-Dec-2015 15:33:50 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 42
+[01-Dec-2015 15:46:34 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 55
+[01-Dec-2015 15:51:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 2
+[01-Dec-2015 15:51:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 2
+[01-Dec-2015 15:51:35 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 59
+[01-Dec-2015 15:52:34 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 58
+[01-Dec-2015 15:52:34 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 58
+[01-Dec-2015 15:53:17 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 58
+[01-Dec-2015 15:53:34 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 58
+[01-Dec-2015 15:54:38 UTC] PHP Parse error:  syntax error, unexpected '=' in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 7
+[01-Dec-2015 15:54:38 UTC] PHP Parse error:  syntax error, unexpected '=' in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 7
+[01-Dec-2015 15:54:50 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 62
+[01-Dec-2015 15:56:28 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 15:56:29 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 15:57:03 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 15:57:03 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 15:57:03 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 15:57:10 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 15:57:31 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 15:57:31 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 15:58:12 UTC] PHP Notice:  Undefined variable: field_value in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 65
+[01-Dec-2015 16:03:52 UTC] PHP Notice:  Undefined variable: single_tag_title in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 51
+[01-Dec-2015 16:03:52 UTC] PHP Fatal error:  Function name must be a string in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 51
+[01-Dec-2015 16:03:52 UTC] PHP Notice:  Undefined variable: single_tag_title in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 51
+[01-Dec-2015 16:03:52 UTC] PHP Fatal error:  Function name must be a string in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 51
+[01-Dec-2015 16:13:05 UTC] PHP Notice:  Undefined variable: tags in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 3
+[01-Dec-2015 16:13:05 UTC] PHP Notice:  Undefined variable: tags in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 3
+[01-Dec-2015 16:13:05 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 3
+[01-Dec-2015 16:13:05 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 3
+[01-Dec-2015 16:13:13 UTC] PHP Notice:  Undefined variable: tags in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 3
+[01-Dec-2015 16:13:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/vaital/tag.php on line 3
