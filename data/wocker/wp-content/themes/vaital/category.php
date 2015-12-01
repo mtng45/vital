@@ -1,11 +1,3 @@
-<?php
-/*
-Template Name: category
-*/
-if ( in_category('rhyda') ) {
-  include(TEMPLATEPATH . '/category-rhyda.php');
-}
-?>
 <?php get_header(); ?>
     <!-- Header -->
     <header>
