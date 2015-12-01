@@ -28,6 +28,7 @@
 .u-padding {
     padding: 60px 0 240px!important;
 }
+
 //Floats
 .u-clearfix {
     @include clearfix;
@@ -69,6 +70,7 @@
 .u-text-middle {
     font-size: 16px;
 }
+
 //background
 .u-bg-top {
     background-color: #DDDDDD;
@@ -78,7 +80,6 @@
 .u-display-none {
     display: none;
 }
-
 
 //img
 .header img {

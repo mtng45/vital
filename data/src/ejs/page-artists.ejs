@@ -1,0 +1,36 @@
+<?php get_header(); ?>
+    <!-- Header -->
+    <% include ./temp/_header %>
+    <div class="u-bg-top">
+    
+    <section class="container u-pt60">
+        <h1 class="m-heading-sub">ARTISTS</h1>
+        <div class="l-row row u-mt30">
+            <?php
+            $repeat_group = SCF::get( 'gp-artists' );
+            foreach ( $repeat_group as $field_name => $field_value ) {
+            ?>
+                <div class="col m4 s6">
+                    <section class="card m-card">
+                        <a href="<?php echo esc_html( $field_value['cf-cateUrl'] ); ?>">
+                            <div class="m-card-image">
+                                <?php echo wp_get_attachment_image($field_value['cf-artistImage'], 'medium'); ?>
+                            </div>
+                        </a>
+                        <h1 class="m-heading-content">
+                            <a href="<?php echo esc_html( $field_value['cf-cateUrl'] ); ?>">
+                                <?php echo esc_html( $field_value['cf-artistName'] ); ?>
+                            </a>
+                        </h1>
+                    </section>
+                </div>
+                <?php } ?>
+        </div> 
+        <hr class="u-hr-black">
+        <!-- SNS -->
+        <% include ./temp/_listSns %>
+    </section>
+        <?php get_footer(); ?>
+        <script src="<?php bloginfo( 'template_directory' ); ?>/js/index.min.js"></script>
+    </body>
+</html>

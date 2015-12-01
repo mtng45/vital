@@ -3701,98 +3701,98 @@ th {
   clear: both;
 }
 
-/* line 36, ../../../../../src/sass/basic/_util.scss */
+/* line 37, ../../../../../src/sass/basic/_util.scss */
 .u-center-block {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* line 40, ../../../../../src/sass/basic/_util.scss */
+/* line 41, ../../../../../src/sass/basic/_util.scss */
 .u-pull-right {
   float: right !important;
 }
 
-/* line 44, ../../../../../src/sass/basic/_util.scss */
+/* line 45, ../../../../../src/sass/basic/_util.scss */
 .u-pull-left {
   float: left !important;
 }
 
-/* line 49, ../../../../../src/sass/basic/_util.scss */
+/* line 50, ../../../../../src/sass/basic/_util.scss */
 .u-text-left {
   text-align: left;
 }
 
-/* line 53, ../../../../../src/sass/basic/_util.scss */
+/* line 54, ../../../../../src/sass/basic/_util.scss */
 .u-text-center {
   text-align: center;
 }
 
-/* line 57, ../../../../../src/sass/basic/_util.scss */
+/* line 58, ../../../../../src/sass/basic/_util.scss */
 .u-text-right {
   text-align: right;
 }
 
-/* line 61, ../../../../../src/sass/basic/_util.scss */
+/* line 62, ../../../../../src/sass/basic/_util.scss */
 .u-text-justify {
   text-align: justify;
 }
 
-/* line 65, ../../../../../src/sass/basic/_util.scss */
+/* line 66, ../../../../../src/sass/basic/_util.scss */
 .u-text-nowrap {
   white-space: nowrap;
 }
 
-/* line 69, ../../../../../src/sass/basic/_util.scss */
+/* line 70, ../../../../../src/sass/basic/_util.scss */
 .u-text-middle {
   font-size: 16px;
 }
 
-/* line 73, ../../../../../src/sass/basic/_util.scss */
+/* line 75, ../../../../../src/sass/basic/_util.scss */
 .u-bg-top {
   background-color: #DDDDDD;
 }
 
-/* line 78, ../../../../../src/sass/basic/_util.scss */
+/* line 80, ../../../../../src/sass/basic/_util.scss */
 .u-display-none {
   display: none;
 }
 
-/* line 84, ../../../../../src/sass/basic/_util.scss */
+/* line 85, ../../../../../src/sass/basic/_util.scss */
 .header img {
   width: 200px;
 }
 
-/* line 87, ../../../../../src/sass/basic/_util.scss */
+/* line 88, ../../../../../src/sass/basic/_util.scss */
 .u-logo-main {
   width: 100px;
   height: auto;
 }
 
-/* line 92, ../../../../../src/sass/basic/_util.scss */
+/* line 93, ../../../../../src/sass/basic/_util.scss */
 .u-text-red {
   color: #ff0000 !important;
 }
 
-/* line 96, ../../../../../src/sass/basic/_util.scss */
+/* line 97, ../../../../../src/sass/basic/_util.scss */
 .u-border-link {
   border-bottom: 5px solid #FED700;
   transition-duration: 0.3s;
   transition-timing-function: ease;
 }
 
-/* line 102, ../../../../../src/sass/basic/_util.scss */
+/* line 103, ../../../../../src/sass/basic/_util.scss */
 .u-center-block {
   display: block !important;
   margin: 0 auto;
 }
 
-/* line 107, ../../../../../src/sass/basic/_util.scss */
+/* line 108, ../../../../../src/sass/basic/_util.scss */
 .u-pre-wrap {
   white-space: pre-wrap;
 }
 
-/* line 111, ../../../../../src/sass/basic/_util.scss */
+/* line 112, ../../../../../src/sass/basic/_util.scss */
 .u-hr-black {
   border-width: 3px;
   border-top: none;
@@ -9785,48 +9785,26 @@ small {
 .card.large .card-content {
   height: 170px;
 }
-/* line 84, ../../../../../src/sass/components/_cards.scss */
-.card .card-image {
-  position: relative;
-}
-/* line 88, ../../../../../src/sass/components/_cards.scss */
-.card .card-image img {
-  display: block;
-  border-radius: 2px 2px 0 0;
-  position: relative;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-}
-/* line 99, ../../../../../src/sass/components/_cards.scss */
-.card .card-image .card-title {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  padding: 20px;
-}
-/* line 108, ../../../../../src/sass/components/_cards.scss */
+/* line 83, ../../../../../src/sass/components/_cards.scss */
 .card .card-content {
   padding: 20px;
   border-radius: 0 0 2px 2px;
 }
-/* line 113, ../../../../../src/sass/components/_cards.scss */
+/* line 88, ../../../../../src/sass/components/_cards.scss */
 .card .card-content p {
   margin: 0;
   color: inherit;
 }
-/* line 117, ../../../../../src/sass/components/_cards.scss */
+/* line 92, ../../../../../src/sass/components/_cards.scss */
 .card .card-content .card-title {
   line-height: 48px;
 }
-/* line 122, ../../../../../src/sass/components/_cards.scss */
+/* line 97, ../../../../../src/sass/components/_cards.scss */
 .card .card-action {
   border-top: 1px solid rgba(160, 160, 160, 0.2);
   padding: 20px;
 }
-/* line 126, ../../../../../src/sass/components/_cards.scss */
+/* line 101, ../../../../../src/sass/components/_cards.scss */
 .card .card-action a {
   color: #ffab40;
   margin-right: 20px;
@@ -9837,11 +9815,11 @@ small {
   transition: color 0.3s ease;
   text-transform: uppercase;
 }
-/* line 132, ../../../../../src/sass/components/_cards.scss */
+/* line 107, ../../../../../src/sass/components/_cards.scss */
 .card .card-action a:hover {
   color: #ffd8a6;
 }
-/* line 136, ../../../../../src/sass/components/_cards.scss */
+/* line 111, ../../../../../src/sass/components/_cards.scss */
 .card .card-reveal {
   padding: 20px;
   position: absolute;
@@ -9853,7 +9831,7 @@ small {
   z-index: 1;
   display: none;
 }
-/* line 147, ../../../../../src/sass/components/_cards.scss */
+/* line 122, ../../../../../src/sass/components/_cards.scss */
 .card .card-reveal .card-title {
   cursor: pointer;
   display: block;
@@ -13585,7 +13563,41 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 /* line 3, ../../../../../src/sass/module/_card.scss */
 .m-card a {
-  color: #000;
+  color: #1a1a1a;
+  display: block;
+}
+/* line 7, ../../../../../src/sass/module/_card.scss */
+.m-card a:hover, .m-card a:focus {
+  opacity: .8;
+}
+/* line 13, ../../../../../src/sass/module/_card.scss */
+.m-card-image {
+  position: relative;
+  border-radius: 2px 2px 0 0;
+  overflow: hidden;
+  height: 230px;
+  background: #ccc;
+}
+/* line 20, ../../../../../src/sass/module/_card.scss */
+.m-card-image img {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+/* line 34, ../../../../../src/sass/module/_card.scss */
+.m-card-image .card-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 20px;
 }
 
 /* line 1, ../../../../../src/sass/module/_heading.scss */
@@ -13767,4 +13779,8 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   left: 0;
   right: 0;
   margin: auto;
+}
+/* line 49, ../../../../../src/sass/module/_thumbnail.scss */
+.m-thumbnail a:hover {
+  opacity: .8;
 }

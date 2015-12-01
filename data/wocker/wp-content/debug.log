@@ -116,3 +116,38 @@
 [10-Nov-2015 11:57:10 UTC] PHP Notice:  Constant ARRAY_A already defined in /var/www/wordpress/wp-content/plugins/db-cache-reloaded-fix/db-module.php on line 58
 [10-Nov-2015 11:57:10 UTC] PHP Notice:  Constant ARRAY_N already defined in /var/www/wordpress/wp-content/plugins/db-cache-reloaded-fix/db-module.php on line 63
 [10-Nov-2015 11:57:10 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /var/www/wordpress/wp-content/plugins/db-cache-reloaded-fix/db-cache-reloaded.php on line 91
+[30-Nov-2015 16:10:31 UTC] PHP Notice:  Undefined index: test in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 51
+[30-Nov-2015 16:10:31 UTC] PHP Notice:  Undefined index: test in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 51
+[30-Nov-2015 16:10:31 UTC] PHP Notice:  Undefined index: test in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 51
+[30-Nov-2015 16:10:31 UTC] PHP Notice:  Undefined index: test in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 51
+[30-Nov-2015 16:17:25 UTC] PHP Warning:  Illegal string offset 'image' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:25 UTC] PHP Warning:  Illegal string offset 'image' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:31 UTC] PHP Warning:  Illegal string offset 'image' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:31 UTC] PHP Notice:  Uninitialized string offset: 0 in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:31 UTC] PHP Warning:  Illegal string offset 'image' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:31 UTC] PHP Notice:  Uninitialized string offset: 0 in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:48 UTC] PHP Warning:  Illegal string offset 'image' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:48 UTC] PHP Warning:  Illegal string offset 'image' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:49 UTC] PHP Warning:  Illegal string offset 'image' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:17:49 UTC] PHP Warning:  Illegal string offset 'image' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:18:02 UTC] PHP Notice:  Undefined index: image in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:18:02 UTC] PHP Notice:  Undefined index: image in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:18:03 UTC] PHP Notice:  Undefined index: image in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:18:03 UTC] PHP Notice:  Undefined index: image in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 44
+[30-Nov-2015 16:19:07 UTC] PHP Warning:  Illegal string offset 'cf-artistImage' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 43
+[30-Nov-2015 16:19:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 43
+[30-Nov-2015 16:19:07 UTC] PHP Warning:  Illegal string offset 'cf-artistImage' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 43
+[30-Nov-2015 16:19:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 43
+[30-Nov-2015 16:19:13 UTC] PHP Warning:  Illegal string offset 'cf-artistImage' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 43
+[30-Nov-2015 16:19:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 43
+[30-Nov-2015 16:19:13 UTC] PHP Warning:  Illegal string offset 'cf-artistImage' in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 43
+[30-Nov-2015 16:19:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /var/www/wordpress/wp-content/themes/vaital/page-artists.php on line 43
+[30-Nov-2015 16:28:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 131
+[30-Nov-2015 16:44:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 131
+[30-Nov-2015 16:44:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 131
+[30-Nov-2015 16:45:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 131
+[30-Nov-2015 16:46:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 130
+[30-Nov-2015 16:46:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 130
+[30-Nov-2015 16:46:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/vaital/category.php on line 130
